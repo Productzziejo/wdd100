@@ -1,6 +1,14 @@
 /* CSS - Name: "positionstyles.css" */
 /* Activity 1 styles */
-    .content1 div {
+  
+
+* {
+	box-sizing: border-box;
+}
+
+
+
+.content1 div {
     Float: left;
     }
     .red1 { 
