@@ -168,7 +168,7 @@
      }
      
      .mid {
-         padding: 20px;
+         padding: 30px;
          margin: 30px;
          background-color: #277455;
          color: #C79E66;
@@ -176,7 +176,12 @@
      
      .r {
          float: right;
-         margin: 40px 30px 20px 20px;
+         margin: 10px 40px 20px 20px;
+     }
+     
+     .l {
+         float: left;
+         margin: 15px 40px 20px 40px
      }
      
      .action a {
@@ -203,4 +208,22 @@
          font-family: "Hanalei Fill", Skia, "Hoefler Text";
          font-size: 1.3em;
          line-height: 2;
+     }
+     
+     dd {
+         line-height: 1.4;
+     }
+     
+     .mid > h3 {
+         color: #353377;
+         font-family: "Hanalei Fill", Skia, "Hoefler Text";
+         font-size: 1.3em;
+         line-height: 2;
+         margin: 0px 0px 0px 0px
+     }
+     
+     .mid > p {
+         margin: 0px 0px 30px 40px;
+         padding: 0px;
+         line-height: 1.4
      }
